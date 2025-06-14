@@ -83,7 +83,7 @@ A lightweight Chrome Extension that visually highlights **Core Web Vitals** dire
 Senior Associate at Performics, Publicis Groupe Media  
 🎧 Also a published musician on Spotify & Apple Music  
 📧 amalalex95@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/amal-alexander-305780131))
 
 ---
 
