@@ -12,7 +12,7 @@ Built with JavaScript + html2canvas + jsPDF
 (Insert screenshots here or link to uploaded image)
 
 ## 📦 Download & Install (Manually)
-1. Download ZIP: [Click here](https://github.com/YOUR-USERNAME/core-web-vitals-extension/archive/refs/heads/main.zip)
+1. 📦 Download ZIP: [Click here](https://github.com/amal-alexander/core-web-vital-extension/archive/refs/heads/main.zip)
 2. Go to chrome://extensions/
 3. Enable **Developer mode**
 4. Click **Load unpacked**
